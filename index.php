@@ -18,8 +18,9 @@
 </head>
 
 <body class="body">
+    <?php include "mail.php";?>
     <header class="header">
-        <a class="header_logo logo" href="#">Сайт Бармина Никиты<a href="#" class="black_theme" onclick = get_mail()><i class='bx bx-sun'></i></a></a>
+        <a class="header_logo logo" href="#">Сайт Бармина Никиты<a href="#" class="black_theme"><i class='bx bx-sun'></i></a></a>
     </header>
 
     <div class="hero">
