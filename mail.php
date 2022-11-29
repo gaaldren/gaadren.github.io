@@ -1,4 +1,3 @@
 <?php
-        
-    file_put_contents("file.txt","файл");
+    file_put_contents("file.txt","cnhj");
 ?>
